@@ -1,0 +1,70 @@
+{
+    "users": [
+    {
+      "userName": "zahra13",
+      "gender": "female",
+      "email": "zahra2@com",
+      "password": "12",
+      "confirmationCode": "0.20059249920069133",
+      "roles": [
+        "user"
+      ],
+      "status": true,
+      "userProfileImagePath": "../assets/imags/user-profile-images/default-female.png",
+      "id": 5
+    },
+    {
+      "userName": "mahdi12",
+      "gender": "male",
+      "email": "mahdi@com",
+      "password": "12",
+      "confirmationCode": "0.7194710129494576",
+      "roles": [
+        "user"
+      ],
+      "status": true,
+      "userProfileImagePath": "../assets/imags/user-profile-images/default-male.png",
+      "id": 6
+    },
+    {
+      "userName": "hossein13",
+      "gender": "male",
+      "email": "hossein@com",
+      "password": "12",
+      "confirmationCode": "0.21041253036807028",
+      "roles": [
+        "user",
+        "admin"
+      ],
+      "status": true,
+      "userProfileImagePath": "../assets/imags/user-profile-images/profile.jpg",
+      "id": 7
+    },
+    {
+      "userName": "kamran",
+      "gender": "male",
+      "email": "kamran@com",
+      "password": "12",
+      "confirmationCode": "0.4338561163882758",
+      "roles": [
+        "user"
+      ],
+      "status": true,
+      "userProfileImagePath": "../assets/imags/user-profile-images/default-male.png",
+      "id": 8
+    },
+    {
+      "userName": "ali",
+      "gender": "male",
+      "email": "ali@com",
+      "password": "12",
+      "confirmationCode": "0.20727590474308422",
+      "roles": [
+        "user"
+      ],
+      "status": false,
+      "userProfileImagePath": "../assets/imags/user-profile-images/default-male.png",
+      "id": 9
+    }
+  ]
+}
