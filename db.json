@@ -1,5 +1,5 @@
 {
-  "products": [{
+ "shoe": [{
       "id": 8,
       "gender": "men",
       "category": "men-shoe",
@@ -185,108 +185,6 @@
       ],
       "isInOffer": false
     }
-  ],
-  "users": [{
-      "id": 0,
-      "username": "hossein",
-      "gender": "male",
-      "password": 123,
-      "email": "hossein@com",
-      "profileImagePath": "1.jpg",
-      "roles": [
-        "user"
-      ],
-      "status": false
-    },
-    {
-      "username": "hossein12",
-      "email": "hossein@co",
-      "password": "111111",
-      "profileImagePath": "assets/Image/auth/profileImage/default-male.png",
-      "roles": [
-        "user"
-      ],
-      "status": false,
-      "gender": "male",
-      "cartItems": [{
-          "id": 1,
-          "title": "پولوشرت آستین کوتاه مردانه باینت مدل 379-1",
-          "count": 2,
-          "imageUrl": "assets/Image/products-preview-home_page/last-products/120695866.jpg",
-          "option": "M",
-          "pathUrl": "/men-style/men-tshirt/1",
-          "price": 275000
-        },
-        {
-          "id": 3,
-          "title": "مانتو زنانه ماترن کد 8107 رنگ مشکی",
-          "count": 2,
-          "imageUrl": "assets/Image/products-preview-home_page/last-products/117461747.jpg",
-          "option": "S",
-          "pathUrl": "/women-style/women-manto/3",
-          "price": 700000
-        },
-        {
-          "id": 18,
-          "title": "مانتو زنانه کیکی رایکی مدل BB1032-018 ",
-          "count": 1,
-          "imageUrl": "assets/Image/all-products/women/manto/p-5/4670a7d92e51e0f94752ad60f575310b46054f94_1613200041.jpg",
-          "option": "S",
-          "pathUrl": "/women-style/women-manto/18",
-          "price": 435000
-        },
-        {
-          "id": 11,
-          "title": "کفش پیاده روی مردانه آلبرتینی مدل میلان کد 7964 ",
-          "count": 3,
-          "imageUrl": "assets/Image/all-products/men/shoe/p-5/b42ba31521db3162a81f77fab924347117909ae3_1603743327.jpg",
-          "option": "38",
-          "pathUrl": "/men-style/men-shoe/11",
-          "price": 920000
-        },
-        {
-          "id": 2,
-          "title": "روسری زنانه مدل 00278",
-          "count": 1,
-          "imageUrl": "assets/Image/products-preview-home_page/last-products/119472190.jpg",
-          "option": "",
-          "pathUrl": "/women-style/women-scarf/2",
-          "price": 100000
-        }
-      ],
-      "id": 1
-    }
-  ],
-  "testimonials": [{
-      "username": "میثم سلطانی",
-      "userProfileImage": "/assets/Image/testimonials/ashkan.jpg",
-      "text": "عالی هستید، ممنون ازتون",
-      "rate": 4
-    },
-    {
-      "username": "شبنم عظیمی",
-      "userProfileImage": "/assets/Image/testimonials/shabnam.jpg",
-      "text": "روسری های فروشگاه تون واقعا درجه یک هستند. قیمت ها تون هم واقعا مناسبه. ممنونم ازتون",
-      "rate": 5
-    },
-    {
-      "username": "ایمان طاهری",
-      "userProfileImage": "/assets/Image/testimonials/iman.jpg",
-      "text": "سلام. سایت خوبی دارید. من یک پیراهن خریدم، همه چیز خوب بود، فقط یکم دیر بدستم رسید.",
-      "rate": 3
-    },
-    {
-      "username": "فاطمه درویشی",
-      "userProfileImage": "/assets/Image/testimonials/fatemeh.jpg",
-      "text": "من خیلی راضی هستم. هم چادر و هم روسری ها خیلی با کیفیت و خوش قیمت هستند. عالی هستید",
-      "rate": 4
-    },
-    {
-      "username": "مهدیس تولایی",
-      "userProfileImage": "/assets/Image/testimonials/mahdis_tavakoli.jpg",
-      "text": "سلام ریحانه استایل عزیز. ممنونم از سایت خوب تون. من اکثر مواردی که لازم دارم را از سایت شما تهیه می کنم. ممنونم از شما.",
-      "rate": 5
-    }
-
-  ]
+  ] 
+  
 }
